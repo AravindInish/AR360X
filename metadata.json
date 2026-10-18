@@ -1,0 +1,6 @@
+{
+  "name": "AR360X — Ultimate Livestock & Business Empire Simulator",
+  "description": "A comprehensive business, farming, and livestock empire simulation game featuring interactive 3D dioramas, deep financial markets, multi-banking, factories, and global trade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
